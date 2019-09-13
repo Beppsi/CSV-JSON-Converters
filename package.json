@@ -1,0 +1,21 @@
+{
+  "name": "csvconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jeni"
+  ],
+  "author": "jennnnni",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^5.3.3",
+    "csvjson": "^5.1.0",
+    "csvtojson": "^2.0.10",
+    "json-2-csv": "^3.5.6",
+    "jsonstream": "^1.0.3"
+  }
+}
